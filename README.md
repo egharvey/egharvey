@@ -8,7 +8,5 @@
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on a super secret personal project
-- 🌱 I’m currently learning Vue
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: You should play Astral Chain
