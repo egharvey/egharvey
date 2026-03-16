@@ -8,5 +8,6 @@
 - 📫 How to reach me: ...
 -->
 
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: You should play Astral Chain
+- 👨‍🎓 Studying Full Stack Development and Cloud Technologies at Deakin University
+- 🔨 Working on stuff
